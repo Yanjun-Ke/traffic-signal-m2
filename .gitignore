@@ -1,0 +1,17 @@
+# Raw dataset
+data/raw/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+
+# Operating system
+.DS_Store
+Thumbs.db
